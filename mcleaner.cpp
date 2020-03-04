@@ -69,6 +69,7 @@ void getJustCurrentDir(string path, vector<string>& files){
 
 int main()
 {
+	system("title MCleaner");
 	char *pathvar;
 	int inp;
 	int a1,a2;
